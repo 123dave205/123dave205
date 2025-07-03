@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LearnBright – Home</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
+    h1, h2 { color: #2a7ae2; }
+    nav a { margin: 0 10px; text-decoration: none; color: #2a7ae2; }
+    .card { padding: 15px; border: 1px solid #ddd; margin-bottom: 20px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to LearnBright</h1>
+  <p>A friendly site for students and slow learners—easy, fun, and full of helpful content.</p>
+  <nav>
+    <a href="#english">English</a>
+    <a href="#math">Math</a>
+    <a href="#science">Science</a>
+    <a href="#ict">ICT</a>
+    <a href="#study">Study Help</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="english" class="card">
+    <h2>📘 English</h2>
+    <ul>
+      <li>Nouns & verbs with pictures</li>
+      <li>Easy reading practice</li>
+      <li>Downloadable worksheets</li>
+    </ul>
+  </section>
+
+  <section id="math" class="card">
+    <h2>➕ Math</h2>
+    <ul>
+      <li>Counting, addition, subtraction</li>
+      <li>Fun quizzes & printable games</li>
+    </ul>
+  </section>
+
+  <section id="science" class="card">
+    <h2>🔬 Science</h2>
+    <ul>
+      <li>Body parts, planets, weather</li>
+      <li>Interactive videos & flashcards</li>
+    </ul>
+  </section>
+
+  <section id="ict" class="card">
+    <h2>💻 ICT</h2>
+    <ul>
+      <li>Basics of computer, mouse, keyboard</li>
+      <li>Typing practice games</li>
+    </ul>
+  </section>
+
+  <section id="study" class="card">
+    <h2>🧠 Study Help</h2>
+    <ul>
+      <li>Focus tips, time management</li>
+      <li>Downloadable planner and guides</li>
+    </ul>
+  </section>
+
+  <section id="contact" class="card">
+    <h2>📩 Contact Us</h2>
+    <p>Email: <a href="mailto:learnbright@gmail.com">learnbright@gmail.com</a></p>
+  </section>
+</body>
+</html>
